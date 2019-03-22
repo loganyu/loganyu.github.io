@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 title: About
 permalink: /about/
+toc: true
 ---
 
 ## Experience
@@ -39,7 +40,7 @@ Mechanize
 * PostgreSQL database
 
 ## Education
-Brooklyn Law School ​ (Spring 2011)
+### Brooklyn Law School ​ (Spring 2011)
 Juris Doctor - experience with Patent Law, Startup Law
-Cooper Union​ (Spring 2008)
+### Cooper Union​ (Spring 2008)
 Bachelor of Engineering - Chemical Engineering - ​cum laude
