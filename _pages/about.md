@@ -4,6 +4,9 @@ author_profile: true
 title: About
 permalink: /about/
 toc: true
+toc_sticky: true
+toc_label: Resume
+toc_icon: file-alt
 ---
 
 ## Experience
