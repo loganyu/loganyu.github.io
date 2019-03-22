@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Logan Yu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I'm a Software Engineer with Ruby on Rails and React experience."
   location         : "Brooklyn, NY"
   email            :
